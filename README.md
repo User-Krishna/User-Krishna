@@ -1,7 +1,8 @@
-![logo](https://github.com/User-Krishna/User-Krishnas/blob/main/software.jpg)
+![logo]()
 <h1 align="center">Hi 👋, I'm Krishna Das</h1>
 <h3 align="center">A Passionate Software Developer From Nepal</h3>
-<image align="right" alt="coding" width="400" src="https://github.com/User-Krishna/User-Krishnas/assets/138452223/38568fb9-c53a-465e-820c-855f0d6f5505">
+<image align="right" alt="coding" width="400" src="https://github.com/User-Krishna/User-Krishna/assets/138452223/7fd5b939-3c38-431e-89e3-020c03580057")
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=user-krishna&label=Profile%20views&color=0e75b6&style=flat" alt="user-krishna" /> </p>
 
