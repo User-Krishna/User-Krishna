@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=user-krishna&label=Profile%20views&color=0e75b6&style=flat" alt="user-krishna" /> </p>
 
-- 🌱 I’m currently learning **Java,SQL**
+- 🌱 I’m currently learning **SQL**
 
-- 💬 Ask me about **C,C++,HTML,CSS**
+- 💬 Ask me about **C,C++,HTML,CSS,Java**
 
 - 📫 How to reach me **dask84779@gmail.com**
 
