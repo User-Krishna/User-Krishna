@@ -18,6 +18,9 @@
 <p align="left">
 <a href="https://fb.com/krishna das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krishna das" height="30" width="40" /></a>
 <a href="https://instagram.com/daskrrishdas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daskrrishdas" height="30" width="40" /></a>
+ 
+  <a href="https://www.linkedin.com/in/krishna-das-4b811922b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="daskrrishdas" height="30" width="40" /></a>
+   <a href="https://t.me/KrishnaDas12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="daskrrishdas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
