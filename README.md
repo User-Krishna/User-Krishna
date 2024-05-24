@@ -1,4 +1,4 @@
-![logo](https://github.com/User-Krishna/User-Krishna/blob/main/software.jpg)
+![logo](https://github.com/User-Krishna/User-Krishna/blob/main/softwares.png)
 <h1 align="center">Hi 👋, I'm Krishna Das</h1>
 <h3 align="center">A Passionate Software Developer From Nepal</h3>
 
