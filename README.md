@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://www.overleaf.com/project/664c26c5027fc88c096a4597](https://www.overleaf.com/project/664c26c5027fc88c096a4597)
 
-- ⚡ Fun fact **I am Dedicated Towards My Work👨‍💻**
+- ⚡ Fun fact **I am Dedicated Towards My Works👨‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
