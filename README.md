@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **dask84779@gmail.com**
 
-- 📄 Know about my experiences [https://www.overleaf.com/project/664c26c5027fc88c096a4597]([https://www.overleaf.com/project/664c26c5027fc88c096a4597](https://drive.google.com/file/d/1oJKmmzzFwEjg1aySSe4khDvqtua7KPiW/view?usp=drivesdk))
+- 📄 Know about my experiences [https://www.overleaf.com/project/664c26c5027fc88c096a4597]((https://drive.google.com/file/d/1oJKmmzzFwEjg1aySSe4khDvqtua7KPiW/view?usp=drivesdk))
 
 - ⚡ Fun fact **I am Dedicated Towards My Works👨‍💻**
 
