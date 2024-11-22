@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.krishnadas.com.np](https://www.krishnadas.com.np)
 
-- 💬 Ask me about **C,HTML,CSS,Java,SQL**
+- 💬 Ask me about **C,HTML,CSS,Java,JavaScript,MySQL**
 
 - 📫 How to reach me **dask84779@gmail.com**
 
